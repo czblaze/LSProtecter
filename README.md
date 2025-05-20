@@ -1,6 +1,6 @@
 # LSProtecter
 Take back control of your privacy with LSProtecter aka LanSchool Protecter.
-https://ibb.co/DX8bYrn
+<a href='https://postimg.cc/Sn2FDC8P' target='_blank'><img src='https://i.postimg.cc/Sn2FDC8P/Protecter.png' border='0' alt='Protecter'/></a>
 - If you would like to modify an image, copy the name "LanSchool_Protecter" from the original 
   image and paste the new image and delete the old image. Make sure you have AutoHotkey installed
   for this to work.
