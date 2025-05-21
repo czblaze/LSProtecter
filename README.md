@@ -1,5 +1,4 @@
 # LSProtecter
-<div align="center">
 <a href='https://postimg.cc/0bhH53Mt' target='_blank'><img src='https://i.postimg.cc/0bhH53Mt/Untitled-design-1.png' border='0' alt='Untitled-design-1'/></a>
 Take back control of your privacy with LSProtecter aka LanSchool Protecter.
 - If you would like to modify an image, copy the name "LanSchool_Protecter" from the original 
